@@ -2,4 +2,3 @@
 이름: 최민규
 20231075
 Project 02 completed
-똥 쀨고 싶어요
